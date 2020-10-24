@@ -35,10 +35,10 @@
   <summary>:zap: My Projects </summary>
   
 <!--START_SECTION:activity-->
-[Python Discord Bot](https://github.com/Vexrax/DiscordBot-Python) 
-[2018 Riot API Challenge](https://github.com/afieldi/2018-Riot-API-Challenge) 
-[2017 Riot API Challenge](https://github.com/Vexrax/lolApi2017) 
-[Java Discord Bot](https://github.com/Vexrax/DiscordBot) 
+1. [Python Discord Bot](https://github.com/Vexrax/DiscordBot-Python) 
+2. [2018 Riot API Challenge](https://github.com/afieldi/2018-Riot-API-Challenge) 
+3. [2017 Riot API Challenge](https://github.com/Vexrax/lolApi2017) 
+4. [Java Discord Bot](https://github.com/Vexrax/DiscordBot) 
 <!--END_SECTION:activity-->
 
 </details>
@@ -47,19 +47,12 @@
   <summary>:zap: Achievements </summary>
   
 <!--START_SECTION:activity-->
-[2018 Riot API Challenge](https://www.riotgames.com/en/DevRel/api-challenge-recap-winter-2019) Winner 
-[2017 Riot API Challenge](https://developer.riotgames.com/api-challenge-december2017.html) Runner Up
+1.[2018 Riot API Challenge](https://www.riotgames.com/en/DevRel/api-challenge-recap-winter-2019) Winner 
+2.[2017 Riot API Challenge](https://developer.riotgames.com/api-challenge-december2017.html) Runner Up
 <!--END_SECTION:activity-->
 
 </details>
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Vexrax's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vexrax&show_icons=true&hide_border=true" />
-
-</details>
 
 [NodeJs]: https://github.com/afieldi/2018-Riot-API-Challenge
 [Python]: https://github.com/Vexrax/DiscordBot-Python
