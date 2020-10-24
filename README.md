@@ -1,7 +1,4 @@
-### Hi there, I'm Joshua!
-
-[![Website](https://img.shields.io/website?label=JoshuaFernandes.ca&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://joshuafernandes.ca/)
-
+# Hi there, I'm Joshua!
 ## I Design APIs, Websites, Testing Suites, Backend Systems and Frontend UIs
 
 - 🌱 I’m currently working at Mobabeast on Lolwiz.
@@ -25,27 +22,36 @@
 [<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][NodeJs]
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][other]
 
+
+---
+
+
 ### Projects 
 <details>
     <summary> :zap: Python Discord Bot</summary>
-    [Python Discord Bot](https://github.com/Vexrax/DiscordBot-Python)  
-    A python bot for my personal discord Server
+    
+[Python Discord Bot](https://github.com/Vexrax/DiscordBot-Python)  
+A python bot for my personal discord Server
 
 </details>
 <details>
     <summary> :zap: Riot API challenge 2018</summary>
-    [2017 Riot API Challenge](https://github.com/Vexrax/lolApi2017)     
-    Runner up for the 2018 Riot API challenge. Web app that provides runes and builds for champions for league of legends
+    
+[2017 Riot API Challenge](https://github.com/Vexrax/lolApi2017)     
+Runner up for the 2018 Riot API challenge. Web app that provides runes and builds for champions for league of legends
 </details>
+
 <details>
     <summary> :zap: Riot API challenge 2019</summary>
-    [2018 Riot API Challenge](https://github.com/afieldi/2018-Riot-API-Challenge)  
-    Winner of the 2019 Riot API challenge. Web app and native client that hooks into the league of legend client to provide players with move immersive missions and quests. 
+    
+[2018 Riot API Challenge](https://github.com/afieldi/2018-Riot-API-Challenge)  
+Winner of the 2019 Riot API challenge. Web app and native client that hooks into the league of legend client to provide players with move immersive missions and quests. 
 </details>
 <details>
     <summary> :zap: Java Discord Bot</summary>
-    [Java Discord Bot](https://github.com/Vexrax/DiscordBot)     
-    A Java discord bot for some of my friends discord server. Plays musics, fetches playlists and has a host of "fun" commands
+
+[Java Discord Bot](https://github.com/Vexrax/DiscordBot)     
+A Java discord bot for some of my friends discord server. Plays musics, fetches playlists and has a host of "fun" commands
 </details>
 
 
