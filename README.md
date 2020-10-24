@@ -27,15 +27,18 @@
 
 <br />
 <br />
+<br />
+
+---
 
 <details>
   <summary>:zap: My Projects </summary>
   
 <!--START_SECTION:activity-->
-1. [Python Discord Bot](https://github.com/Vexrax/DiscordBot-Python) 
-2. [2018 Riot API Challenge](https://github.com/afieldi/2018-Riot-API-Challenge) 
-3. [2017 Riot API Challenge](https://github.com/Vexrax/lolApi2017) 
-4. [Java Discord Bot](https://github.com/Vexrax/DiscordBot) 
+[Python Discord Bot](https://github.com/Vexrax/DiscordBot-Python) 
+[2018 Riot API Challenge](https://github.com/afieldi/2018-Riot-API-Challenge) 
+[2017 Riot API Challenge](https://github.com/Vexrax/lolApi2017) 
+[Java Discord Bot](https://github.com/Vexrax/DiscordBot) 
 <!--END_SECTION:activity-->
 
 </details>
