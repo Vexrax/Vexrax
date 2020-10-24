@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=JoshuaFernandes.ca&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://joshuafernandes.ca/)
 
-## I'm a FullStack Developer
+## I design APIs, Websites, Testing suites, Backend systems and Frontend UIs
 
 - 🌱 I’m currently working at Mobabeast on Lolwiz.
 - ⚡ Graduating December 2021.
