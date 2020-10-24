@@ -1,14 +1,13 @@
 ### Hi there, I'm Joshua 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://joshuafernandes.ca/)
+[![Website](https://img.shields.io/website?label=JoshuaFernandes.ca&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://joshuafernandes.ca/)
 
 ## I'm a FullStack Developer
 
 - 🌱 I’m currently working at Mobabeast on Lolwiz.
 - ⚡ Graduating December 2021.
 - 🔭 Always looking to learn new technologies.
-
-<br />
+- ❄ Github Arctic Vault Contributor.
 
 ### Languages and Tools:
 
@@ -28,8 +27,6 @@
 
 <br />
 <br />
-
----
 
 <details>
   <summary>:zap: My Projects </summary>
