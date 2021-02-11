@@ -1,9 +1,8 @@
 # Hi there, I'm Joshua!
 ## I Design APIs, Websites, Testing Suites, Backend Systems and Frontend UIs
 
-- 🌱 I’m currently working at Mobabeast on Lolwiz.
+- 🌱 Currently doing Software Consulting.
 - ⚡ Graduating December 2021.
-- 🔭 Always looking to learn new technologies.
 - ❄ Github Arctic Vault Contributor.
 
 ### Languages and Tools:
