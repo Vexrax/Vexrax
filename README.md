@@ -1,8 +1,8 @@
 # Hi there, I'm Joshua!
 ## I Design APIs, Websites, Testing Suites, Backend Systems and Frontend UIs
 
-- 🌱 Currently doing Software Consulting.
-- ⚡ Graduating December 2021.
+- 🌱 Software Engineer @Amazon.
+- ⚡ Graduated April 2022.
 - ❄ Github Arctic Vault Contributor.
 
 ### Languages and Tools:
