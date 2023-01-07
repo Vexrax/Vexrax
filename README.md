@@ -45,13 +45,20 @@ Runner up for the 2018 Riot API challenge. Web app that provides runes and build
 [2018 Riot API Challenge](https://github.com/afieldi/2018-Riot-API-Challenge)  
 Winner of the 2019 Riot API challenge. Web app and native client that hooks into the league of legend client to provide players with move immersive missions and quests. 
 </details>
+
+<details>
+    <summary> :zap: Risen Stats Site</summary>
+
+[Risen Stats Site](https://github.com/afieldi/RisenStats)     
+A stats site to display tournament stats for participants of risen tournaments. 
+</details>
+
 <details>
     <summary> :zap: Java Discord Bot</summary>
 
 [Java Discord Bot](https://github.com/Vexrax/DiscordBot)     
 A Java discord bot for some of my friends discord server. Plays musics, fetches playlists and has a host of "fun" commands
 </details>
-
 
 [NodeJs]: https://github.com/afieldi/2018-Riot-API-Challenge
 [Python]: https://github.com/Vexrax/DiscordBot-Python
