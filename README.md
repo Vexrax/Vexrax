@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=2000&pause=6000&color=10F1F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%E2%A0%80Hi%2C+I'm+Josh!" alt="Typing SVG" /></a><h3>I design APIs, Websites, Backend Systems, Infrastructure and Frontend UIs!</h3>
 <pre>
-    💻Software Engineer @ Amazon
+    💻 Software Engineer @ Amazon
     💼 Graduated April 2022
 </pre>
 <br>
