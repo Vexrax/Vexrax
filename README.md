@@ -24,7 +24,4 @@
 <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img alt="PostgresSQL" src="https://img.shields.io/badge/-PostgresSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
-
-
-
 </div>
