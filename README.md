@@ -71,16 +71,6 @@
             <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         </td>
     </tr>
-    <tr>
-        <td><a href="https://github.com/Vexrax/DiscordBot-Python"><b>Python Discord Bot</b></a></td>
-        <td>
-             A python bot for my personal discord Server
-        </td>
-        <td>
-            <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-            <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongoDB&logoColor=white" />
-        </td>
-    </tr>
   </tbody>
 </table>
 </div>
