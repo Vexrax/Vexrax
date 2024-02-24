@@ -26,7 +26,7 @@
 <table>
   <thead align="center">
     <t>
-      <td><b>🎁 Projects</b></td>
+      <td><b>🎁 Project</b></td>
       <td><b>📬 Description</b></td>
     </t>
   </thead>
