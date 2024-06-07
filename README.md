@@ -32,7 +32,7 @@
   </thead>
   <tbody>
     <tr>
-        <td><a href="https://github.com/afieldi/2018-Riot-API-Challenge"><b>Risen Stats Site</b></a></td>
+        <td><a href="https://github.com/afieldi/RisenStats"><b>Risen Stats Site</b></a></td>
         <td>
              A stats site to display tournament stats for participants of risen tournaments.
         </td>
